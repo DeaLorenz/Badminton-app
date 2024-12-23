@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Badminton Tablet anzeige (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Badminton Tablet anzeige (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
